@@ -474,7 +474,7 @@
   "armors.fire_fighter.description_damage": "\u00a7a +50% Síla Útoku Zbraní na Blízko",
   "armors.fire_fighter.description_as": "\u00a7a +20% Rychlost Útoku",
   "tooltip.translation.spacecatasb.settitle.armors.fighter.title": "Bojovník",
-  "armors.fighter_t1.description_damage": "\u00a7a +15% Síla Útoku Zbraní na Blízko",I'll '
+  "armors.fighter_t1.description_damage": "\u00a7a +15% Síla Útoku Zbraní na Blízko",
   "armors.fighter_t1.description_as": "\u00a7a +15% Rychlost Útoku",
   "armors.fighter_t2.description_damage": "\u00a7a +40% Síla Útoku Zbraní na Blízko",
   "armors.fighter_t2.description_as": "\u00a7a +25% Rychlost Útoku",
@@ -486,7 +486,7 @@
   "armors.forest_guard.description_ranged_damage": "\u00a7d +25% Síla Útoku Střelných Zbraní",
   "armors.forest_guard.description_movement": "\u00a7a +15% Svižnost",
   "tooltip.translation.spacecatasb.settitle.armors.forest_ghillie.title": "Travnatá Kamufláž",
-  "armors.forest_ghillie.description_movement": "\u00a7a 50% Zvýšená Svižnost na Trávě",It
+  "armors.forest_ghillie.description_movement": "\u00a7a 50% Zvýšená Svižnost na Trávě",
   "tooltip.translation.spacecatasb.settitle.armors.sand_ghillie.title": "Písečná Kamufláž",
   "armors.sand_ghillie.description_movement": "\u00a7a 50% Zvýšená Svižnost na Písku",
   "tooltip.translation.spacecatasb.settitle.armors.snow_ghillie.title": "Sněžná Kamufláž",
