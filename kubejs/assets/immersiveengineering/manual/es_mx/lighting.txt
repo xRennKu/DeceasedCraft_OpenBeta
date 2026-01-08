@@ -1,0 +1,7 @@
+Iluminación de Ingeniería
+Iluminando el Yermo
+<&lantern>En lo profundo de los pasillos de las fábricas, puede ser bastante oscuro. Para poder orientarte alrededor de las máquinas, probablemente deberías iluminar el lugar con algunos Faroles. Estos Faroles proporcionan casi tanta luz como un bloque de piedra luminosa.
+<&electric_lantern>Los Faroles Eléctricos son uno de los primeros usos inventados para la energía eléctrica. Para hacerlos funcionar, debes conectarlos directamente a tu red eléctrica usando cables. Permitirán que la energía se transfiera a través de ellos, por lo que puedes vincularlos en una fila.
+Usar el Martillo del Ingeniero en ellos los volteará boca abajo. Mientras se les suministre un poco de energía, iluminarán el área circundante como un Farol normal, pero además, ¡también evitarán que aparezcan mobs hostiles en un radio de 32 bloques!<np>
+<&floodlight>Los Focos son fuentes de luz fuertes. Si bien requieren más energía que un simple Farol Eléctrico, crearán un cono de luz de hasta 32 bloques de largo. Usa un Martillo del Ingeniero en las caras superior o inferior del bloque para rotar la luz o haz clic en sus lados para cambiar su inclinación.
+Generalmente, los Focos requieren una señal de redstone para funcionar, sin embargo, su comportamiento de control se puede invertir haciendo clic derecho en su base con un Destornillador del Ingeniero.

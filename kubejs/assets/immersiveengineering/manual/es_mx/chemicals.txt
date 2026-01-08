@@ -1,0 +1,13 @@
+Azufre y Nitrato
+Explosiones y Crecimiento
+El §lPolvo de Azufre§r es un polvo que se encuentra en ciertos minerales y comúnmente en <link;minerals;Depósitos Minerales>. Se puede encontrar ocasionalmente <link;crusher;triturando> bloques de §2Lapislázuli§r o §2Mineral de Carbón§r y más comúnmente en §2Mineral de Cuarzo del Nether§r. También se puede extraer de §2Varas de Blaze§r.
+
+El §lPolvo de Nitrato§r (también conocido como salitre) es una mezcla de sales alcalinas que se encuentra al procesar §2Arenisca§r en una <link;crusher;Trituradora>.
+<&fertilizer>
+El azufre, la escoria y el nitrato por sí mismos son un pequeño impulso para el cultivo de cultivos en el <link;garden_cloche;Jardín Cloche>, pero no son suficientes para usarse directamente en los cultivos.
+
+El §2Fertilizante Industrial§r proporcionará un gran impulso al cloche y está hecho de los tres nutrientes anteriores más agua para mezclarlos de manera efectiva.
+<&gunpowder>
+Mezclar Nitrato, Azufre y Carbón Vegetal permite la creación de pólvora, un proceso mucho más industrial y consistente que saquearla de monstruos.
+
+La pólvora también se puede convertir en Barriles con Pólvora, una alternativa más estable al TNT.

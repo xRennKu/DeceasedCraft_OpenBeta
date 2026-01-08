@@ -1,0 +1,21 @@
+Cables de Redstone
+Toma de control de integración
+<&coil>Los §2Cables de Redstone§r son aluminio recubierto de polvo de redstone. Los cables resultantes proporcionan una manera fácil de transferir señales de redstone a larga distancia sin perder fuerza de señal.<&connector>Los §2conectores§r funcionan como cualquier otro conector de cable en términos de conectarlos, sin embargo, el cableado de redstone no requiere relés; los conectores y los relés son el mismo bloque.
+Con el Destornillador del Ingeniero, los conectores se pueden configurar entre el modo de entrada y salida y establecerse en una de las 16 frecuencias de color.
+<&probe>Los §2Conectores de Sondas de Redstone§r tienen una funcionalidad similar a los Comparadores de Redstone, leyendo inventarios para ver qué tan llenos están. No solo eso, sino que se pueden configurar con un cierto §lumbral de señal§r y solo emitirán si se cumple ese umbral, similar a un comparador.
+Además, estas sondas pueden operar en dos canales, enviando su señal de lectura en uno y aún recibiendo señales en otro. Todas estas configuraciones se configuran utilizando el Destornillador del Ingeniero.
+
+Ten en cuenta que muchos de los multibloques de IE cuentan con funcionalidad de comparador, como se describe en las siguientes páginas. Donde esté disponible, la superficie de control de redstone del multibloque es el lugar designado para conectar un comparador.<np>
+§lTanque: §rComo se detalla en su <link;tank;entrada manual>
+§lSilo: §rComo se detalla en su <link;silo;entrada manual>
+§lEstación de Ensamblaje: §rEmite una señal relativa al llenado del inventario.
+§lEstación de Ensamblaje Automática: §rEmite una señal relativa al llenado del inventario.
+§lTrituradora: §rEmite una señal relativa al llenado del inventario.
+§lExprimidora: §rEmite una señal relativa al llenado del inventario.
+§lFermentadora: §rEmite una señal relativa al llenado del inventario.
+§lExcavadora: §rEmite una señal relativa al mineral restante en la veta.
+§lHorno de Arco: §rEmite una señal relativa al llenado del inventario.
+Además, conectar un comparador a los electrodos en la parte superior enviará una señal basada en su integridad.
+§lMezcladora: §rEmite una señal relativa al llenado del inventario.<np>
+<&bundled>Los §2Conectores de Interfaz de Redstone§r están diseñados para conectarse a otros bloques que pueden hacer uso de las señales de redstone de colores.
+El conector de interfaz es inerte y no posee un color, estado de entrada o salida, pero permite que bloques como el <link;item_batcher;Filtro de Objetos> interactúen directamente con la red de cables.

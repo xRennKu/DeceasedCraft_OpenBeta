@@ -1,0 +1,8 @@
+Gancho Aéreo de Ingeniero
+¡Booker, atrapa!
+El Gancho Aéreo de Ingeniero es un sistema de agarre motorizado diseñado para engancharse a cables, cuerdas de cáñamo o cables de acero.
+Con él, los ingenieros pueden atravesar rápidamente la longitud de una línea eléctrica para moverse entre subestaciones u otras instalaciones. Simplemente mantén presionado el botón derecho del ratón mientras estás cerca de un cable y te unirás a él.
+El botón se puede soltar mientras se monta el cable, pero soltar el gancho aéreo o agacharse hará que desmontes.
+
+La gravedad será suficiente para moverse a lo largo de los cables descendentes a una velocidad decente, las teclas de movimiento estándar se pueden usar para moverse a lo largo de los cables ascendentes.
+Cuando el gancho aéreo llega a una intersección, continuará lo más cerca posible de la dirección en la que mira el jugador.

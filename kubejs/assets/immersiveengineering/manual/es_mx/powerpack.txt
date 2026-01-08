@@ -1,0 +1,13 @@
+Condensador Portátil
+Do....Ray....Egon!
+El almacenamiento de energía ocupa espacio y algunos componentes pesados. Como tal, almacenar grandes cantidades de energía en cada herramienta individualmente es ineficiente y las hace incómodas de manejar.
+El Condensador Portátil actúa como un compromiso, ofreciendo un almacenamiento centralizado de energía para que cualquier herramienta eléctrica pueda aprovechar. Construyes su marco de transporte con la receta que se muestra aquí. Después de eso, puedes llevarlo al <link;workbench;Banco de Trabajo del Ingeniero;start> para colocar un <link;accumulators;Acumulador> dentro de él.
+La mochila carga cualquier herramienta en tus manos, así como cualquier armadura que lleves puesta. Puedes usarla como una pieza de armadura de pecho, o puedes elaborarla con una pieza de pecho para unirla y obtener el beneficio de una fuente de alimentación, así como protección.
+Ten en cuenta que no puedes usar la <link;charging_station;Estación de Recarga> para cargar el paquete mientras está conectado a la armadura.
+<br>Las siguientes páginas detallan las posibles mejoras que puedes adjuntar al Condensador Portátil.<np>
+<&antenna>Al conectar una §2Antena de Carga§r a la mochila, ¡puedes cargar su acumulador sobre la marcha! Simplemente camina debajo de una <link;wiring;línea eléctrica no aislada;wire_recipes> para que la antena se conecte a ella.<br>
+Mientras permanezcas lo suficientemente cerca del cable, la antena se flexionará y permanecerá conectada, cargando lentamente el acumulador desde la red de cables.<np>
+<&induction>El §2Cargador de Inducción§r permite que el paquete acumulador cargue todos los artículos en tu inventario en lugar de solo los que tienes en tus manos. Sin embargo, debido a que no utiliza una conexión por cable directa, esta carga es mucho más lenta.<np>
+<&magnet>El §2Electroimán Portátil§r es una versión especializada del <link;electromagnet;bloque más grande>, diseñado para atraer artículos cercanos al usuario, permitiendo que se recojan fácilmente. Gracias a los circuitos mejorados, esta mejora solo consume energía mientras se mueven los artículos.<np>
+<&tesla>Como su nombre puede sugerir, la §2Bobina de Tesla Miniaturizada§r es muy parecida a su <link;tesla_coil;hermana mayor>, un dispositivo que entrega descargas peligrosas a objetivos cercanos. Lo hace en respuesta a que el usuario sea atacado, sustituyendo así la armadura espinosa por electricidad.
+<br>Debido a que se conecta en la parte superior de la mochila, la bobina no se puede usar al mismo tiempo que la Antena de Carga.

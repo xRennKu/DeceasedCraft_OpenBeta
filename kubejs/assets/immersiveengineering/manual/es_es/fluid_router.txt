@@ -1,0 +1,6 @@
+Enrutador de Fluidos
+La leche va a la izquierda, el ácido va a la derecha
+<&recipe>El Enrutador de Fluidos funciona de manera muy similar al <link;item_router;Enrutador de Artículos;start>. Los fluidos que ingresan por cualquier lado se redistribuirán según cómo estén configurados los seis filtros laterales.
+Hacer clic en un cubo o cualquier otro tipo de contenedor de fluido en las ranuras de la GUI configurará el filtro para ese fluido.<np>
+Cuando se canalizan fluidos al enrutador, se enrutarán a una salida cuyo filtro coincida con el fluido o, si no se encuentra ningún filtro coincidente, el fluido se enruta a una salida no filtrada. Si no hay una ruta disponible o válida, no se aceptará ningún fluido.
+Los botones sobre cada filtro se pueden usar para que el enrutador respete o ignore los datos NBT del fluido.

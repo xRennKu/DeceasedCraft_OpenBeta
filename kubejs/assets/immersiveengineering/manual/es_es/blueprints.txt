@@ -1,0 +1,3 @@
+Planos de Ingeniero
+De vuelta a la mesa de dibujo
+Esta página presenta todos los Planos de Ingeniero que se pueden elaborar por medios normales. Es posible que otros Planos deban adquirirse de aldeanos o encontrarse en el mundo. Todos estos se pueden usar en un <link;workbench;Banco de Trabajo de Ingeniero> para elaborar los artículos que describen.

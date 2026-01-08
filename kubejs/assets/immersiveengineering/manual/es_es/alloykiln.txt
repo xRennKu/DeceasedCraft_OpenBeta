@@ -1,0 +1,5 @@
+Horno de Aleación
+Mezclando Metales
+<&recipe>El Horno de Aleación es un horno simple hecho de arenisca y ladrillos resistentes al calor. Dentro de él, las temperaturas son lo suficientemente altas como para permitir que los metales se fundan en un estado fluido y se mezclen, creando una <link;alloys;aleación>.
+Esto permite la creación de aleaciones importantes como Electro y Constantán sin requerir la tediosa mezcla de polvos. <&multiblock>Para formar el Horno, coloca 8 de los Ladrillos de Horno en un cubo de 2x2x2, como se muestra arriba, y haz clic derecho en uno de los bloques de los lados con un Martillo de Ingeniero.
+<&insulating_glass>El horno de aleación también es esencial en la creación de §2vidrio aislante§r, un componente utilizado en la construcción de <link;wiring;arquitectura de alto voltaje;connector_recipes>.

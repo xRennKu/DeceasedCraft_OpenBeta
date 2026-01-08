@@ -1,0 +1,10 @@
+Taladro Minero
+¡Mi taladro perforará el Bedrock!
+<&drill_base_recipes>El taladro manual, impulsado por diésel, es un gran avance en la minería. Con cabezas de taladro intercambiables y mejoras, sus propiedades son casi completamente modificables. Para modificarlo, colócalo en un <link;workbench;Banco de Trabajo del Ingeniero;start>. El taladro funciona con <link;refinery;Biodiésel;diesel> y se puede llenar directamente en la refinería.
+El taladro excava en un área dependiendo de la cabeza de taladro utilizada, pero puedes agacharte para limitarlo a un solo bloque. También puedes agacharte y hacer clic derecho para cambiar el taladro al modo de bloque único.<np>
+<&drill_head_recipes>La §2Cabeza de Taladro§r determina el §2nivel de minería§r base, la §2velocidad§r y el §2tamaño§r, así como el §2daño de ataque§r. A medida que cavas bloques, la cabeza del taladro recibe daño, pero se puede reparar en un yunque.<np>
+<&drill_waterproof_recipe>Como el taladro funciona con un motor de combustión, no funcionará bajo el agua a menos que lo equipes con la mejora §2Tanque de Aire Presurizado§r. Sin embargo, con esta mejora equipada, no solo funcionará mientras esté sumergido, sino que también ignorará la desaceleración que generalmente se experimenta al cavar en el agua.<np>
+<&drill_lube_recipe>El §2Sistema Avanzado de Lubricación§r aplicó lubricante adicional al taladro de forma regular, disminuyendo la pérdida de durabilidad de la cabeza del taladro.<np>
+<&drill_damage_recipe>Al agregar §2Brocas Adicionales§r al taladro, aumenta su potencial destructivo, aumentando su daño contra criaturas vivas y permitiéndole correr y cavar más rápido. La mejora se acumula hasta tres veces.<np>
+<&drill_fortune_recipe>La poderosa acción del taladro hace que desperdicie parte del precioso mineral en el suelo. Al usar <link;redstone_acid;ácido de redstone> para ablandar la roca primero, el taladro puede extraer mucho más mineral crudo de los bloques (similar al encantamiento §2Fortuna§r).<np>
+<&drill_capacity_recipe>El §2Tanque Grande§r permite que el taladro almacene más combustible internamente, extendiendo el tiempo que puedes usarlo antes de rellenarlo.

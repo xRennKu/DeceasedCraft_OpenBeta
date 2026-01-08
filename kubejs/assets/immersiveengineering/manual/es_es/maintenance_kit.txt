@@ -1,0 +1,6 @@
+Kit de Mantenimiento
+Reparaciones sobre la marcha
+<&recipe>Entre los Ingenieros que viajan por el mundo o pasan gran parte de su tiempo en minas, un problema se cristaliza.
+Sus herramientas requieren un mantenimiento constante y llevar un banco de trabajo completo simplemente no es viable.
+Afortunadamente, un kit de mantenimiento puede realizar la mayoría de las reparaciones y reconfiguraciones menores.<br>
+Un conjunto de herramientas, envuelto en tela de cáñamo resistente, el kit de mantenimiento te permite personalizar tus herramientas de la misma manera que lo hace el <link;workbench;Banco de Trabajo de Ingeniero>. Ya no tendrás que lidiar con salir a la superficie para cambiar la cabeza de tu Taladro Minero o regresar a tu taller para configurar tus Orejeras. ¡Todo esto ahora se puede realizar sobre la marcha con el Kit de Mantenimiento!

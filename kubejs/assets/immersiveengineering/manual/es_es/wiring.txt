@@ -1,0 +1,19 @@
+Cableado Básico
+¡Bzzzt!
+La red de energía de Immersive Engineering tiene cuatro bloques importantes: §lconectores§r como entradas y salidas para la red, §lrelays§r para conectar cables juntos y §ltransformadores§r para cambiar entre diferentes niveles de cable.<np>
+<&wire_recipes>Para conectar dos bloques, simplemente haz clic en el primero con una bobina de cable, luego usa la misma bobina en el segundo bloque. La tasa de transferencia total entre dos puntos depende del tipo de cable más débil entre ellos.
+<&images>Ten en cuenta que se aplican restricciones según los bloques: Los conectores y relés solo aceptarán cables del mismo tipo que ya está conectado, los transformadores solo aceptarán dos cables de un tipo diferente, y los cables solo pueden conectarse a bloques que coincidan con el voltaje. Hay dos valores importantes a tener en cuenta sobre el cableado:
+Cada conector tiene un valor de entrada (§o<config;iA;machines.wireConnectorInput>§r) y cada cable tiene una tasa de transferencia máxima (§o<config;iA;wires.wireTransferRate;l3>§r).
+El conector limita cuánta energía se puede entrar y salir, pero múltiples conectores pueden §ounificarse§r en un solo cable, lo que le permite combinar la transferencia en rangos más largos. Sin embargo, ten en cuenta que la §otasa de transferencia máxima del cable no debe excederse, o de lo contrario el cable se §oquemará§r.<br>
+Los cables transferirán energía incluso a través de §ochunks no cargados§r siempre que los chunks de entrada y salida estén cargados.<br>
+Los cables no aislados conectados a una fuente de energía causarán daño a los jugadores y mobs demasiado cerca de ellos. Los cables aislados están disponibles para bajo y medio voltaje.<br>
+Agacharse al usar la función "Recoger Bloque" en un conector recogerá el cable conectado de tu inventario.<br>
+Las conexiones de cable se romperán si se coloca un bloque que obstruye el cable.<np>
+<&connector_recipes>Los §lConectores§r sirven como entradas y salidas a la red de energía. Puedes colocarlos en acumuladores u otros manipuladores de Flux y transferirán energía a través de cables conectados. Los §lRelés§r no pueden entrar o salir, sirven como puntos de conexión entre cables.<np>
+<&transformer_recipes>Los §lTransformadores§r te permiten hacer la transición entre diferentes tipos de cable. El cable más débil restringe la tasa de transferencia. Ten en cuenta que los Transformadores HV pueden reducir a LV o MV, por lo que no necesitas encadenar dos transformadores.
+Puedes conectar <link;this;transformadores a postes de madera;images+1> como se muestra en la segunda imagen en la página 4, sin embargo, solo los Transformadores no HV se pueden colocar así.<np>
+<&wirecutter_recipe>Los §lAlicates del ingeniero§r se utilizan para eliminar todos los cables conectados a un bloque simplemente haciendo clic derecho en él.<np>
+<&voltmeter_recipe>El §lMultímetro§r se utiliza para medir conexiones. Apuntarlo a cualquier almacenamiento de energía o hacer clic derecho en él leerá su almacenamiento actual. Agacharse+clic derecho en dos conectores para calcular la pérdida promedio entre ellos.
+También se puede utilizar para leer niveles de redstone.<np>
+<&feedthrough>Los Aisladores de Paso permiten conectar el cableado de un lado de una pared al cableado del otro lado sin un agujero. Se pueden crear con cualquier bloque sólido "normal" en el medio, haciendo clic derecho en cualquiera de los dos conectores con un Martillo de Ingeniero.
+Todos los tipos comunes de conectores (energía y redstone) se pueden utilizar para crear aisladores de paso para el tipo de cable correspondiente.

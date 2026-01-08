@@ -1,0 +1,8 @@
+Apariencias
+¡Azul! ¡No, amarillo!
+Las apariencias son artículos que puedes encontrar en el mundo o adquirir comerciando con aldeanos. No tienen un propósito por sí mismos, pero se pueden equipar a <link;revolver;Revólveres>, <link;mining_drill;Taladros>, <link;chemthrower;Lanzadores Químicos>, <link;shield;Escudo Pesado> o <link;railgun;Cañones de Riel>(y posiblemente otras cosas que aún tienes que descubrir) para cambiar los diseños del artículo. Simplemente coloca el artículo en un <link;workbench;Banco de Trabajo del Ingeniero> y equipa la apariencia en la ranura apropiada.
+¡También puedes aplicarlos a una Vagoneta, Estandarte o un <link;balloon;Globo> haciendo clic derecho!
+
+Para obtener una lista completa de todas las apariencias disponibles, sus apariencias, referencias y más detalles, <link;shader_list;consulta aquí><np>
+<&grab_bag>Las Bolsas de Apariencias son artículos que contienen una apariencia aleatoria. Se pueden encontrar en cajas, intercambiar con aldeanos o dejar caer por jefes. La rareza de la apariencia contenida es igual o mejor que la rareza de la bolsa. Al usar una bolsa, es más probable que obtengas una apariencia que aún no posees, que una que ya posees.
+Las bolsas de apariencias se pueden elaborar en dos bolsas de un nivel inferior. Esto reducirá tus posibilidades de obtener apariencias más raras, pero te proporcionará más intentos.

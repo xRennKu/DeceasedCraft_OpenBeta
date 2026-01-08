@@ -1,0 +1,5 @@
+Generador Termoeléctrico
+Caliente y Frío
+<&recipe>Los Generadores Termoeléctricos son otra opción de generación de energía y funcionan sin el uso de piezas mecánicas, en su lugar utilizan los gradientes de temperatura entre dos fuentes.
+Colocar un fluido caliente en un lado y un fluido más frío en el lado opuesto genera energía en función de la diferencia entre las dos temperaturas.
+<&values>La lista a continuación contiene otros bloques, no fluidos, que se pueden usar como fuentes de temperatura.

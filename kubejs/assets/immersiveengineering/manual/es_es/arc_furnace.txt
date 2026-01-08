@@ -1,0 +1,15 @@
+Horno de Arco
+No es un reactor
+El Horno de Arco es una estructura masiva utilizada para fundir metales rápidamente. Consiste en una cuba de acero coronada por electrodos que calientan el metal.
+El horno sobresale en la fundición de minerales y la creación de acero debido a su alta velocidad y su capacidad para procesar múltiples artículos al mismo tiempo, pero también es complejo en su funcionamiento y requerirá mantenimiento para continuar funcionando.
+La escoria debe eliminarse de la máquina o dejará de funcionar, y los electrodos degradados deben reemplazarse con el tiempo.
+Para formar la estructura, ensámblala como se muestra en la primera página, luego haz clic en el caldero con un Martillo de Ingeniero.
+La energía se introduce a través de los tres conectores en la parte posterior, y suministrar al panel de control en la parte delantera una señal de redstone apagará la máquina. Hacer clic derecho en el panel, 'cubo' o cuba abrirá la interfaz.<np>
+§lInterfaz:§r
+La interfaz puede parecer confusa al verla por primera vez, pero es bastante sencilla.
+
+Las tres ranuras en la parte superior son para los <link;graphite;Electrodos de Grafito;electrode>.
+Las doce ranuras a la izquierda son las ranuras de entrada para metales y minerales. Cada ranura tiene una barra de temperatura al lado, que representa el progreso de la fundición.
+Las cuatro ranuras a la derecha son para "aditivos", diferentes materiales agregados al metal fundido durante el proceso de elaboración. Un ejemplo de estos sería agregar Polvo de Coque al Hierro fundido para crear Acero.
+Las entradas y los aditivos se insertan a través de las dos escotillas en la parte superior de la estructura, las entradas a la izquierda y los aditivos a la derecha de los electrodos.
+Las siete ranuras en la parte inferior son seis ranuras de salida y una ranura para escoria. Las salidas se recuperan del 'cubo' en la parte delantera de la estructura, la escoria a través del puerto en la parte posterior de la máquina. El Horno de Arco empujará automáticamente la salida y la escoria a los inventarios conectados (esto incluye Cintas Transportadoras).

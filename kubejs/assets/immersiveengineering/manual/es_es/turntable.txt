@@ -1,0 +1,7 @@
+Plataforma Giratoria
+No puedo seguir el ritmo
+<&recipe>La Plataforma Giratoria rotará los bloques colocados contra ella.
+Sostener un Martillo de Ingeniero mientras se mira un lado de la máquina muestra su lado giratorio y la dirección de giro asociada con el lado objetivo.
+La dirección de giro se establece individualmente para cada uno de los 4 lados alrededor del eje de giro, lo que permite giros de ±90° o 180°, dependiendo de qué lado reciba la señal de redstone.
+
+Hacer clic derecho con el Martillo lo reorientará, agacharse mientras se hace esto alternará a través de las direcciones de giro de la Plataforma Giratoria.

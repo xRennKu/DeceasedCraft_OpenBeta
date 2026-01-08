@@ -1,0 +1,23 @@
+{
+  "language": "Español",
+  "language.code": "es_es",
+  "language.region": "España",
+  "block.engineered_schematics.schematic_table_block": "Mesa de esquemas",
+  "desc.engineered_schematics.schematic_table": "Mesa de esquemas",
+  "itemGroup.engineered_schematics": "Engineered Schematics",
+  "engineered_schematics.gui.schematic_table.mirror": "Reflejado",
+  "item.engineered_schematics.multiblock_schematic.specific": "Esquema de %s",
+  "item.engineered_schematics.multiblock_schematic.specific.mirrored": "Esquema de %s reflejado",
+  "item.engineered_schematics.multiblock_schematic": "Esquema en blanco",
+  "desc.engineered_schematics.info.schematic.size": "%s",
+  "desc.engineered_schematics.info.schematic.block_info": "Mantén [%s] para materiales",
+  "desc.engineered_schematics.info.schematic.no_multiblock": "Esquemas en blanco",
+  "desc.engineered_schematics.info.schematic.moved": "Esquema movido",
+  "desc.engineered_schematics.info.schematic.rotated": "Esquema rotado",
+  "desc.engineered_schematics.info.schematic.placed": "(Solo creativo) Esquema colocado",
+  "desc.engineered_schematics.info.schematic.tier": "Esto se puede formar usando el %s",
+  "desc.engineered_schematics.info.schematic.ie_tier": "Martillo de ingeniero",
+  "item.engineered_schematics.multiblock_schematic.formed": "Completo",
+  "item.engineered_schematics.multiblock_schematic.error": "Error de bloque",
+  "manual.engineered_schematics.main": "Engineered Schematics"
+}

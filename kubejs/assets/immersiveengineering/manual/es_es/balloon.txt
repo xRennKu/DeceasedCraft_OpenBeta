@@ -1,0 +1,10 @@
+Globo
+...solo haz 99 de ellos
+<&recipe>Los globos son sacos de tela con una fuente de calor debajo para mantenerlos a flote. Emitirán luz, pero a pesar de la antorcha, no son un peligro de incendio.
+Los globos se pueden colocar como bloques normales, o cuando no se apunta a ningún bloque, se colocarán en el aire frente a ti.
+
+Similar a los <link;metalconstruction;Conectores Estructurales;connector_recipes> puedes conectar Cuerda de Cáñamo y Cable de Acero al globo.
+
+Hacer clic agachado mientras se coloca te permite establecer un desplazamiento de altura para el globo, lo que te permite colocarlo hasta 5 bloques por encima del objetivo. Agacharse y hacer clic derecho en un globo te permitirá recogerlo.
+
+También puedes usar tintes en un globo colocado; qué parte tiñes depende de dónde apuntes. Hacer clic derecho con un Martillo de Ingeniero alternará el diseño del globo entre rayas horizontales o verticales.

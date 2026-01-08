@@ -1,0 +1,22 @@
+Cintas Transportadoras
+¿Quién necesita rieles de todos modos?
+<&conveyor_recipes>Las Cintas Transportadoras son una forma fácil de transportar todo tipo de cosas alrededor de tu base. Si bien son lo suficientemente fuertes como para mover criaturas vivas como vacas u ovejas, su verdadera fuerza radica en transportar artículos.
+Lanzar artículos sobre ellas hará que los artículos se muevan a lo largo de la cinta. Si la cinta conduce a un inventario, el artículo se insertará. Los bloques como tolvas podrán dejar caer artículos sobre las cintas.
+Usa un Martillo de Ingeniero para rotar las cintas (clic derecho) o ajustar si deben correr hacia arriba o hacia abajo (agacharse + clic derecho).
+Hacer clic derecho en una cinta transportadora con cualquier tinte coloreará las paredes de la cinta para identificar fácilmente hacia dónde se dirige.<np>
+<&conveyor_redstone_recipe>La Cinta Transportadora Controlada por Redstone se puede desactivar con una señal de redstone.
+El panel en su costado permite conectar una palanca, pero se puede ingresar una señal de redstone desde cualquier dirección. Agáchate + clic derecho con un Martillo de Ingeniero para mover el panel al otro lado.<np>
+<&conveyor_dropper_recipe>La Cinta Transportadora de Caída es simplemente una cinta transportadora con una escotilla en el medio, lo que le permite dejar caer artículos que pasan sobre ella hacia abajo.
+Los artículos se insertarán en inventarios debajo o simplemente se dejarán caer si hay un espacio vacío debajo de la cinta.
+La escotilla se puede cerrar con una señal de redstone, cuando se desee.<np>
+<&conveyor_extract_recipe>La Cinta Transportadora de Extracción posee la capacidad de extraer artículos de un inventario de manera similar a una Tolva. Sin embargo, a diferencia de esta última, no posee inventario interno y colocará los artículos extraídos en la cinta.
+Agáchate + clic derecho con un Martillo de Ingeniero para cambiar su lado de entrada. Usa el Destornillador de Ingeniero para ajustar la velocidad a la que extrae.<np>
+<&conveyor_vertical_recipe>La Cinta Transportadora Vertical es una cinta destinada a montarse en paredes. Usando los cubos unidos a ella, levantará entidades directamente hacia arriba. A pesar del uso del término "cubo", no levantará fluidos.
+Esta cinta puede insertarse en inventarios por encima de ella o simplemente expulsar artículos sobre el borde en la parte superior hacia más cintas transportadoras.<np>
+<&conveyor_splitter_recipe>La Cinta Transportadora Divisora alterna entre redirigir Artículos y Entidades a la izquierda y a la derecha, simple y llanamente. Esta característica se puede utilizar para lograr una distribución más equitativa en tus fábricas.<np>
+<&conveyor_covered_recipe>La Cinta Transportadora Cubierta funciona igual que una cinta transportadora normal, sin embargo, está cubierta por una pieza de andamio, lo que evita que los jugadores recojan artículos de ella.
+Puedes hacer clic derecho en ella con otros tipos de andamios o vidrio para cambiar la apariencia de la cubierta.<np>
+<&conveyor_other_covered_recipes>De manera similar, las Cintas Transportadoras de Caída, Extracción, Divisora y Vertical también se pueden cubrir con andamios para lograr los mismos beneficios de "prevención de recogida" mientras siguen funcionando como lo hacen normalmente.
+<&chute_recipes>Los Conductos son construcciones simples hechas de chapa metálica que permiten que las entidades caigan directamente hacia abajo.
+Pueden insertarse en inventarios debajo de ellos y ser insertados por cintas transportadoras o dispositivos similares. Los artículos dentro de ellos no serán recogidos por los jugadores y deberían ser inmunes a la mayoría de las formas de atracción, magnética o mágica.
+Agáchate + clic derecho con un Martillo de Ingeniero para convertir el conducto en una pieza de esquina que dirige una entidad hacia un lado.

@@ -1,0 +1,3 @@
+Vatímetro
+¡88 Flux por hora!
+El Vatímetro es un dispositivo de medición para energía eléctrica. Se puede conectar en cualquier línea eléctrica y realizará un seguimiento de la energía transferida a través de ella, devolviendo un promedio de Flux/t al hacer clic derecho.

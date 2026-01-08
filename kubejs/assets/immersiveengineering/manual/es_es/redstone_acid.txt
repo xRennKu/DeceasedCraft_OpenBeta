@@ -1,0 +1,6 @@
+Ácido de Redstone
+¡Electrolito colorido!
+Si bien las propiedades exactas de la Redstone siguen siendo un misterio incluso para los ingenieros más estudiados, experimentos recientes han demostrado que es una sal ácida, creando Ácido de Redstone cuando se disuelve en agua.
+El ácido no es lo suficientemente fuerte como para disolver materia orgánica, pero es levemente corrosivo para el metal y actúa como un excelente electrolito para <link;accumulators;Acumuladores;recipes>.<br>
+<&mixer>Para la producción en masa, el ácido se puede crear fácilmente en una <link;mixer;Mezcladora>, usando 1 pieza de §2Polvo de Redstone§r por un cuarto de cubo de agua.
+<&copper>Cuando se usa en un <link;chemthrower;Lanzador Químico> se puede usar para oxidar bloques de cobre, produciendo una hermosa pátina. El mismo efecto se puede lograr usando una <link;bottling_machine;Máquina Embotelladora>, usando un octavo de cubo para envejecer un bloque de cobre.

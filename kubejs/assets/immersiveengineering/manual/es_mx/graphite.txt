@@ -1,0 +1,5 @@
+Grafito
+Cosas de carbón
+El Grafito Pirolítico Altamente Ordenado (HOP) es un material de carbono complejo y altamente comprimido que se utiliza en construcciones de ingeniería especiales.
+El Polvo de Grafito se crea comprimiendo ocho piezas de Polvo de Coque en la <link;squeezer;Exprimidora Industrial>. Ese polvo luego se puede fundir en un lingote.
+<&electrode>El uso más común para el Grafito es la creación de electrodos para ser utilizados en el <link;arc_furnace;Horno de Arco>. Estos electrodos se crean con un <link;blueprints;Plano de Ingeniería>, que puedes encontrar en ciertos cofres o intercambiar con un aldeano. También puedes crear electrodos en la prensa de metal, usando el molde de barras en 4 lingotes, pero los electrodos elaborados de esta manera tienen menos durabilidad.

@@ -1,0 +1,9 @@
+Componentes de Elaboración
+Piezas Integrales
+Muchas máquinas y herramientas se construyen a partir de varios subcomponentes. Algunos de estos tendrás que usarlos regularmente, por lo que tienen su propia entrada en este manual. Los §2Componentes Mecánicos de Hierro§r y §2Acero§r son integrales para la mayoría de los Multibloques y maquinaria.<np>
+<&create_bp>Como te encontrarás creando estos componentes con más frecuencia, puede ser aconsejable redactar un <link;blueprints;Plano> para ellos.
+<&mech_components>El uso de este plano en un <link;workbench;Banco de Trabajo de Ingeniero> te permitirá construir los componentes a un costo reducido.<np>
+<&elec_components>Los §2Componentes Electrónicos§r son más complicados y menos utilizados que su contraparte mecánica. Sin embargo, son esenciales para cualquier dispositivo con un nivel extendido de control, como el <link;item_batcher;Dosificador de Artículos> o las <link;turrets;Torretas>.<np>
+<&light_bulbs>Las §2Bombillas Incandescentes§r están hechas de un filamento de bambú carbonizado o papel que produce luz y calor cuando se alimenta. Se utilizan principalmente para elaborar <link;lighting;linternas;electric_lantern>.<np>
+<&tubes>Otro componente, aunque menos utilizado, son los §2Tubos de Vacío§r. Estos ingredientes costosos se utilizan en <link;logic_circuits;circuitos lógicos> y maquinaria electrónica más compleja.<np>
+<&pcb>La §2Placa de Circuito§r es una placa de cobre aislada a la que se le pueden soldar una variedad de componentes para crear <link;logic_circuits;Circuitos Lógicos>.

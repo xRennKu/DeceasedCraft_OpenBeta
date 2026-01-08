@@ -1,0 +1,4 @@
+Alambre de Navajas
+Cortador de huevos de gran tamaño
+<&recipe>El alambre de navajas es un alambre con piezas de metal afiladas unidas. Ralentizará y cortará a cualquier entidad que intente moverse a través de él.
+El alambre de navajas solo se puede quitar con Cortacables, cualquier otro intento dañará al jugador. Además, se puede conectar un cable LV para electrificar el alambre de navajas para obtener daño adicional.

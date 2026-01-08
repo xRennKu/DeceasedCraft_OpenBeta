@@ -1,0 +1,13 @@
+Cañón de Riel
+Velocitas Eradico
+El Cañón de Riel (o más exactamente la Catapulta de Inducción Portátil) es una maravilla de la ingeniería. Consiste en dos rieles a través de los cuales fluye una corriente eléctrica y acelera un trineo, y por eso, un proyectil.
+El proceso requiere mucha energía, pero acelerará varios proyectiles a altas velocidades.
+Para lanzar un proyectil desde tu inventario, haz clic y mantén presionado el botón de uso hasta que el nivel de carga llegue a 99, luego suelta.
+
+Los proyectiles comunes incluyen §2barras de hierro§r, §2aluminio§r y §2acero§r, así como §2electrodos de grafito§r. Sin embargo, también puedes disparar proyectiles más exóticos, como §2varas de blaze§r que prenden fuego a los objetivos, §2varas del end§r que realmente pueden golpear a los endermen, §2perlas de ender§r para aumentar su alcance, <link;buzzsaw;§2hojas de sierra§r> que perforan objetivos, o §2tridentes§r.
+Para cambiar entre proyectiles, agáchate y desplaza la rueda del ratón o usa la combinación de teclas §l<keybind;key.immersiveengineering.chemthrowerSwitch>§r si se ha configurado en las opciones.
+
+Debido al bajo almacenamiento de energía interna, se recomienda usar el cañón de riel junto con un <link;powerpack;Condensador Portátil>.
+Al igual que con otras herramientas de IE, el cañón de riel se puede modificar en el <link;workbench;Banco de Trabajo del Ingeniero> y personalizar con <link;shader;Apariencias>.<np>
+<&speed>Los §2Disipadores Avanzados§r ayudan a mitigar la acumulación de calor durante el proceso de carga, reduciendo en gran medida el tiempo de carga del cañón de riel.<np>
+<&scope>La §2Mira Telescópica§r te permite hacer zoom con el cañón de riel. Usa §l<keybind;key.immersiveengineering.railgunZoom>§r para usar la mira y desplaza la rueda del ratón para cambiar entre niveles de aumento.

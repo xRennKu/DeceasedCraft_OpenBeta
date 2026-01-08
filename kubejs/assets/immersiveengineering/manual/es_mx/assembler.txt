@@ -1,0 +1,10 @@
+Estación de Ensamblaje
+Se requiere algún ensamblaje
+<&multiblock>La Estación de Ensamblaje es una máquina compleja capaz de elaborar artículos, similar a como lo haría un jugador.
+Para formar la estructura, constrúyela como se muestra arriba y usa el martillo en una de las cintas transportadoras.<np>
+La cinta transportadora en la que hiciste clic será el lado de entrada, indicado por el marcador azul sobre ella y la flecha en el costado de la máquina.
+La Estación de Ensamblaje permite almacenar hasta 3 recetas en su interior que se realizarán en orden. Las salidas de recetas anteriores se pueden utilizar como entradas para recetas siguientes.
+Las 3 cuadrículas de elaboración almacenan las recetas, y las 18 ranuras debajo de ellas son el inventario de materiales.<np>
+El lado de entrada, además de una entrada de artículos, también cuenta con una entrada de fluido para llenar los tres tanques internos de la máquina.
+El fluido en estos tanques se puede utilizar para reemplazar contenedores de fluido como cubetas de agua en recetas.
+La energía para la máquina se introduce a través del bloque central superior.

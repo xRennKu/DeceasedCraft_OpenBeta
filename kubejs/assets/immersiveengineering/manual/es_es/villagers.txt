@@ -1,0 +1,14 @@
+Aldeanos
+Testificate con un Título
+Durante tus viajes, es posible que te hayas encontrado con varios pueblos y sus estudiosos habitantes.<br>
+¡Algunos de ellos, de hecho, califican como ingenieros! Sus profesiones y bienes comerciales se describen aquí.<np>
+<&engineer> El §lIngeniero Estructural§r se ocupa de materiales de construcción como madera tratada, andamios y hormigón. Si te haces lo suficientemente amigo de ellos, incluso podrían venderte un mapa del tesoro a una <link;minerals;Veta Mineral;start> cercana...
+Su estación de trabajo es una §2Plataforma Giratoria§r.<np>
+<&machinist> El §lMaquinista§r es un experto en metales, mecánica y herramientas. Venden martillos, cajas de herramientas y cabezas de taladro. Los maquinistas muy experimentados incluso saben cómo dibujar planos para <link;graphite;electrodos de grafito;electrode>.
+Su estación de trabajo es una §2Mesa de Trabajo de Ingeniero§r.<np>
+<&electrician> El §lElectricista§r ofrece alicates del ingeniero, bobinas de alambre y piezas de un traje faraday. Algunos aldeanos menos respetables también pueden tener un alijo de mejoras de armas experimentales...
+Su estación de trabajo es una §2Mesa de Circuitos de Ingeniero§r.<np>
+<&gunsmith> El §lArmero§r se ocupa de las armas de fuego recientemente populares. Además de vender varios tipos de municiones, también fabrican algunas piezas raras para el <link;revolver;Revólver;start> que influyen en su rendimiento.
+Su estación de trabajo es un §2Banco de Trabajo de Ingeniero§r.<np>
+<&outfitter> El §lProveedor§r puede no parecer un ingeniero tradicional, aunque su campo de trabajo no es menos preciso! Mientras que otros fabrican componentes y ensamblan grandes estructuras, ellos diseñan patrones de color únicos conocidos como <link;shader;Sombreadores;start>.
+Venden bolsas sorpresa de sombreadores, lo que te permite adquirir aleatoriamente piezas de su oficio. Su estación de trabajo es un §2Estandarte de Sombreador§r, que se crea usando un sombreador en un estandarte normal colocado.

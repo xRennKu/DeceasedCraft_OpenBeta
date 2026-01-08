@@ -1,0 +1,5 @@
+Horno de Coque
+¡Tema candente!
+<&recipe>El Horno de Coque es la primera máquina importante que necesitarás crear para continuar con Immersive Engineering. Su funcionalidad es simple, calentará carbón o bloques de carbón sin suministrarle oxígeno, creando §2Coque de Carbón§r, un combustible rico en carbono.
+<&outputs>Más importante aún, este proceso crea §2Aceite de Creosota§r, que se utiliza como <link;treated_wood;conservante para madera>. De manera similar, también puedes quemar troncos de madera en §2carbón vegetal§r con este horno, aunque con un rendimiento menor de creosota.<np>
+<&multiblock>Para formar un Horno de Coque, organiza 27 de estos bloques en un cubo de 3x3x3 y haz clic derecho en uno de los bloques centrales de los lados con un Martillo de Ingeniero.

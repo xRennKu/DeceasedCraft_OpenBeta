@@ -1,0 +1,7 @@
+Pararrayos
+¡Atónito!
+El rayo es un fenómeno de la naturaleza. Contiene una gran cantidad de energía bruta, y este pararrayos es capaz de aprovechar esa energía.
+Al apilar muchas cercas de acero en este multibloque, aumentas la posibilidad de que un rayo lo golpee durante la lluvia o las tormentas eléctricas.
+Cuando se golpea el poste de acero, las enormes cantidades de energía creadas se almacenan en la base del pararrayos y luego se distribuyen lentamente a las conexiones de energía en los lados.
+
+Puedes mejorar las posibilidades de que el Pararrayos sea golpeado creando una "red" de cercas de acero conectadas a la cerca superior.

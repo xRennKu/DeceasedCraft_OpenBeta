@@ -1,0 +1,6 @@
+Alto Horno Preindustrial
+Acero Simple
+<&block>El Alto Horno Preindustrial se utiliza para aumentar el contenido de carbono en el hierro, convirtiéndolo en §2acero§r. Para lograr esto, solo se pueden usar combustibles puros y ricos en carbono para el horno, específicamente <link;cokeoven;coque y carbón vegetal>.
+<&outputs>Junto con el acero, el horno también creará §2escoria§r, que debes eliminar o el horno dejará de funcionar. Si bien técnicamente es un producto de desecho, hay varias formas de <link;slag;reciclarla>.<np>
+<&multiblock>Para formar un Alto Horno, organiza 27 de estos bloques en un cubo de 3x3x3 y haz clic derecho en uno de los bloques centrales de los lados con un Martillo del Ingeniero.
+El Alto Horno Preindustrial §lno§r es automatizable. Todas las entradas y salidas deben organizarse manualmente a través de su GUI. Si deseas automatizar la creación de acero, probablemente deberías considerar crear un <link;improved_blast_furnace;Alto Horno Industrial;>.

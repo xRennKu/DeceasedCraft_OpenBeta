@@ -1,0 +1,5 @@
+Bidón de gasolina
+Mejor que los cubos
+<&recipe>Los bidones de gasolina son contenedores de metal simples que se utilizan para transportar fluidos. Pueden almacenar hasta 10 cubos y pueden verter ese fluido en el mundo, así como en máquinas.
+Sin embargo, no pueden recoger fluidos.<br>
+Además, se pueden usar para rellenar artículos que consumen fluidos como el <link;mining_drill;Taladro Minero;start> colocándolos juntos en una cuadrícula de elaboración.

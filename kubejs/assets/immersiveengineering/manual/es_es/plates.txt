@@ -1,0 +1,3 @@
+Placas de Metal
+Plano como un lenguado
+Las Placas de Metal son un material de elaboración requerido para la creación de algunas máquinas o bloques. Se hacen martillando un lingote con un Martillo de Ingeniero o en una <link;metal_press;Prensa de Metal>.

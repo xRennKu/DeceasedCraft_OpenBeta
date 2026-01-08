@@ -1,0 +1,6 @@
+Interruptor de Palanca
+Encender - Apagar
+<&manual_breaker>Los Interruptores de Palanca son simplemente interruptores que pueden detener el flujo de energía a través de los cables. Pueden conectar dos cables del mismo tipo y solo permitirán que pase la energía cuando se activen. ¡Esto se puede usar para separar maquinaria que consume mucha energía de la red o conectar un conjunto adicional de generadores cuando sea necesario! Debido al alto riesgo, estos interruptores no aceptarán cables HV.
+También emitirán una señal de redstone cuando se enciendan; este comportamiento se puede invertir haciendo clic en el interruptor con un Destornillador del Ingeniero.
+¡Además, son una excelente manera de controlar tus <link;lighting;luces alimentadas;electric_lantern>!<np>
+<&rs_breaker>El Interruptor de Redstone es similar a un interruptor de palanca normal, pero no se puede operar manualmente. En cambio, requerirá una señal de redstone para romper la conexión. A cambio, ¡este dispositivo está lo suficientemente bien aislado como para permitir la conexión de cables HV también!

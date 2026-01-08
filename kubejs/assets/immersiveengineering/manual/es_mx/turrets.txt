@@ -1,0 +1,14 @@
+Torretas
+¿Sigues ahí?
+Las torretas son el siguiente paso en la defensa automatizada de tu fábrica. Cuentan con un complejo sistema óptico combinado con un "cerebro" electrónico para distinguir y adquirir objetivos de manera efectiva y usar el armamento incorporado para neutralizarlos.
+Todas las torretas cuentan con puertos de energía en su base y requieren una señal de redstone para estar activas, aunque este comportamiento se puede invertir agachándose y haciendo clic derecho con un Destornillador del Ingeniero.<np>
+Al colocarse, las Torretas recordarán a su propietario y no permitirán que otros usuarios las rompan o modifiquen. Hacer clic derecho en la torreta abre la GUI que presenta una lista de nombres con un campo de entrada, así como múltiples opciones de orientación.
+Por defecto, la lista es una lista negra de objetivos que no pueden ser atacados. Esta lista utiliza nombres de criaturas, por lo que es posible incluir animales en la lista blanca.<np>
+<&turret_chemthrower_recipe>La Torreta con Lanzador Químico utiliza las capacidades de propulsión de fluidos de la <link;chemthrower;herramienta homónima;start> para cubrir objetivos en cualquier cosa, desde agua para apagar llamas hasta aceite diésel para iniciarlas.<np>
+Esta Torreta cuenta con un puerto de fluido en la parte inferior y posterior de la base para permitir que las tuberías se conecten a ella. Además, la GUI tiene un botón a la izquierda que deshabilita o habilita la llama piloto, encendiendo el fluido dispensado, siempre que sea inflamable.
+
+§oLos proveedores de este plano no son responsables de ningún daño al usuario, vecinos o varios animales de granja que puedan incurrir.§r<np>
+<&turret_gun_recipe>La Torreta Armada presenta una versión muy modificada de los componentes internos del <link;revolver;Revólver;start> en una carcasa mucho más grande e imponente. La construcción también implica un cargador extendido para permitir un mayor almacenamiento interno de municiones.<np>
+Un puerto para la inserción automática de munición y la extracción de casquillos gastados se encuentra dentro de la parte posterior e inferior de la base. Esta Torreta puede almacenar hasta una pila completa de cartuchos y la GUI cuenta con un botón para alternar la expulsión automática de casquillos gastados.
+
+§oTen en cuenta que ciertas municiones pueden causar daños colaterales al usuario o a su propiedad.§r

@@ -1,0 +1,5 @@
+Electroimán
+Innaturalmente atractivo
+<&recipe>Un Electroimán es simplemente una gran bobina de alambre enrollada alrededor de un núcleo ferromagnético que crea un campo magnético cuando se le proporciona corriente eléctrica.
+Este campo atrae elementos cercanos al imán, lo que lo hace ideal para recolectar el botín de una granja (de mobs).<br>
+El imán funciona continuamente mientras se le suministra energía, pero se puede desactivar con una señal de redstone. Este comportamiento se puede invertir agachándose y haciendo clic derecho con un Destornillador de Ingeniero.

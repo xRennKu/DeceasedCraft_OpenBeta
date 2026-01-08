@@ -1,0 +1,12 @@
+Resina y Duroplast
+¡Es fantástico!
+<&resin>La Resina Fenólica es un fluido pegajoso y viscoso, que se puede moldear en un plástico resistente conocido como Duroplast. Este increíble nuevo material es rígido, no inflamable y no conductor, lo que lo convierte en un excelente aislante en ingeniería eléctrica.
+Además, su capacidad para ser moldeado lo hace mucho más confiable en la producción en masa que la madera o la cerámica.<np>
+<&acetaldehyde>Sin embargo, su proceso de producción es más complejo y se basa en procesos químicos complejos solo posibles dentro de una <link;refinery;§o§nRefinería§r>.<br>
+Primero, el <link;fermenter;Etanol;start> obtenido de la fermentación de plantas debe oxidarse para convertirse en Acetaldehído. Este proceso se realiza utilizando una §2Placa de Plata§r como catalizador y llenando uno de los tanques de la refinería con Etanol, mientras que el otro tanque permanece vacío.
+El Acetaldehído resultante se transfiere luego a una §osegunda§r refinería, donde se combina con <link;cokeoven;Aceite de Creosota> para crear §2Resina Fenólica§r. Este proceso no requiere catalizador.<np>
+<&duroplast_sheet>Los artículos de Duroplast se crean llenando los <link;metal_press;moldes;mold_recipes> apropiados con resina en la <link;bottling_machine;§o§nEmbotelladora§r>. La máquina es capaz de conferir suficiente calor y presión dentro de estos moldes para activar el endurecimiento de la resina.<br>
+Las láminas resultantes se utilizan en la creación de <link;components;Componentes Electrónicos Avanzados;elec_components> y <link;components;Placas de Circuito Impreso;pcb>, donde actúan como aislantes.<np>
+<&duroplast_block>Los bloques sólidos de duroplast se pueden utilizar para fines de construcción y decoración, aunque no todos aprecian su color. Sin embargo, lo más importante es que sirven para reemplazar la §2Terracota§r al elaborar <link;wiring;conectores de cable y relés;connector_recipes>, ¡reduciendo así la cantidad de arcilla requerida!<np>
+<&fiberboard>El Tablero de Fibra está hecho de <link;sawmill;aserrín;sawdust> comprimido, mezclado con resina para crear un bloque denso y comprimido. Comparte sus propiedades con la madera y se puede utilizar como reemplazo de tablones en la mayoría de las recetas. ¡Una excelente manera de reciclar lo que de otro modo sería un desperdicio!
+<&empty_shell> También puedes usar resina en la creación de cartuchos vacíos para los <link;bullets;cartuchos de Revólver;empty>, haciéndolos más baratos y fáciles de producir en masa.

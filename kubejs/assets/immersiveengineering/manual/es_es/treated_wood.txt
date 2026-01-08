@@ -1,0 +1,9 @@
+Madera Tratada
+Altamente Duradera
+<&treated_wood>La Madera Tratada es, simplemente, tablones de madera cubiertos de <link;cokeoven;aceite de creosota;outputs>. A pesar de su simplicidad, es uno de los materiales más importantes que utilizarás en Immersive Engineering, así que será mejor que estés preparado para elaborar mucho.<np>
+<&recipes>
+<&posts>Los postes hechos de madera tratada son excelentes puntos de fijación para tus Conectores de Cable. Tienen 4 bloques de altura, por lo que no podrás colocarlos sin el espacio libre adecuado.
+Usar el martillo en los lados del bloque superior unirá un brazo al poste.
+También puedes colocar <link;wiring;transformadores;transformer_recipes> en el poste, lo que lo hace menos molesto.
+Colocar bloques debajo de los brazos del poste de madera volteará los brazos boca abajo.<np>
+<&wallmount>La madera tratada también se puede utilizar para elaborar §2Soportes de Pared§r, que pueden ser muy útiles para montar conectores de una manera visualmente atractiva sin usar postes.

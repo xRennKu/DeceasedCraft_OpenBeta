@@ -1,0 +1,13 @@
+Concreto
+Material de Fortaleza
+<&recipe>El concreto es un material compuesto muy duro y resistente. Es barato de elaborar y es un excelente uso para el exceso de <link;slag;escoria> producido al hacer acero.
+<&brick>El concreto se puede cortar y ensamblar en varios ladrillos y pilares utilizando el §2Cortador de Piedra§r.
+
+Los ladrillos de concreto tienen la misma resistencia a las explosiones que el concreto, pero se pueden desmontar más rápido que su contraparte sólida, lo que los convierte en un buen material estructural.
+<&partial>El concreto se puede cortar en losas de diferente grosor utilizando un §2Cortador de Piedra§r.
+
+También puedes usar esa máquina para hacer losas y escaleras de concreto, así como azulejos de concreto que son más suaves y pulidos.
+<&leaded>El concreto reforzado es un material reforzado, que es altamente resistente a las explosiones. También puede ofrecer protección contra la radiación, si eso es algo que te preocupa.
+<&liquid>El concreto líquido se puede producir en una <link;mixer;Mezcladora> combinando media cubeta de Agua con §2Grava§r, §2Arcilla§r y §2dos piezas de Arena§r. Cuando se vacía en el suelo, se extenderá como el agua, antes de solidificarse después de un tiempo.
+<br>Se pueden usar varias cubetas para llenar un área más grande colocándola en ubicaciones clave. Ten en cuenta que si se extiende demasiado fino, el líquido se secará en losas en lugar de bloques completos.
+Si el concreto se seca mientras una criatura está parada en él, quedará atrapada y no podrá moverse. También puedes llenar un <link;chemthrower;Lanzador Químico> con concreto líquido para crear plataformas improvisadas o inmovilizar enemigos.

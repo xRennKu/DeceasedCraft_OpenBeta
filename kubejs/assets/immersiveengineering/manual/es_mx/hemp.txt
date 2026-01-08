@@ -1,0 +1,9 @@
+Cáñamo Industrial
+530 fabric it
+<&items>¡El Cáñamo Industrial es una planta notable! No solo sus semillas son útiles para la creación de <link;refinery;Biodiésel;diesel>, las fibras de cáñamo también se utilizan para la creación de Tela Resistente.
+Las semillas se pueden obtener rompiendo hierba alta.<np>
+<&fabric_recipe>La Tela Resistente es un tejido resistente hecho de fibra de cáñamo. Se utiliza para crear <link;generator;Molinos de Viento Mejorados;sail_recipe> así como <link;balloon;Globos;start> y <link;this;Cojines de Salto;cushion_recipe>.<np>
+<&cushion_recipe>Los Cojines de Salto son bloques simples creados a partir de tela resistente e inflados con aire. Son capaces de absorber impactos y prevenir el daño por caída al aterrizar sobre ellos, pero, a diferencia de los bloques de limo, no te harán rebotar hacia arriba.<np>
+<&curtain_recipe>Las Cortinas de Tiras son piezas de tela que se montan en marcos de puertas u otras aberturas para servir para bloquear la vista.
+Cuando una entidad pasa a través de ellas, emitirán una señal de redstone. Haz clic derecho en ellas con un Destornillador de Ingeniero para habilitar señales fuertes.
+Se pueden teñir de la misma manera que la armadura de cuero.

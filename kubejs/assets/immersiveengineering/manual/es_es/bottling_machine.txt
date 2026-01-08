@@ -1,0 +1,10 @@
+Máquina Embotelladora
+¡Llénala!
+<&multiblock>La Máquina Embotelladora llena fluidos en contenedores.
+La estructura se crea como se muestra arriba, pero se puede reflejar. Para formarla, haz clic derecho en la cinta transportadora central con un Martillo de Ingeniero. La dirección de las cintas transportadoras es importante.<np>
+La máquina puede almacenar 8 cubos de fluido, que se introduce a través de los puertos en el tanque de metal. La energía se introduce a través de la conexión en la parte superior del lado opuesto.<br>
+Generalmente, la Máquina Embotelladora podrá llenar cualquier contenedor que tenga una versión llena disponible (cubo, botella de vidrio). También aceptará otros artículos que puedan almacenar fluidos, como el <link;mining_drill;Taladro Minero;start> o un <link;jerrycan;Bidón de gasolina;start>.
+La máquina retendrá un contenedor hasta que esté completamente lleno, o la máquina no esté recibiendo más fluido. Esto le permite llenar incluso contenedores más grandes, siempre que reciba una entrada constante de fluido.
+Este comportamiento se puede desactivar agachándose y haciendo clic derecho con un Martillo de Ingeniero.<np>
+<&potions>La máquina se puede usar para embotellar cualquier poción que se haya elaborado en la <link;mixer;Mezcladora>.<br>
+Además, sirve para crear <link;plastic;artículos de duroplast;duroplast_sheet> a partir de resina y <link;redstone_acid;oxidar bloques de cobre;copper> con ácido de redstone.

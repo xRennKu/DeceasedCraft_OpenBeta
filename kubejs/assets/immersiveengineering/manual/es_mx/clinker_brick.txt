@@ -1,0 +1,12 @@
+Ladrillos Clinker
+Casas de Vidrio y Piedras
+<&smoker_recipe>
+El arte de hornear ladrillos ha progresado más allá de desperdiciar varias partes del lote produciendo clinker por estar demasiado cerca del fuego.
+
+Sin embargo, aquellos que buscan recrear el aspecto icónico de las fachadas de ladrillo clinker pueden calentar ladrillos en el §2Ahumador§r para vitrificar y carbonizar los ladrillos externos, convirtiéndolos en §2Ladrillos Clinker§r.
+<&variants>
+Para complementar el aspecto de las fachadas hechas de ellos, los ladrillos clinker se pueden combinar con terracota para producir varias variantes decorativas para fachadas: §2Esquinas de Ladrillo Clinker§r y §2Alféizares§r.
+<&cut_variants>
+Los Ladrillos Clinker también se pueden formar en escaleras, losas y muros.
+
+§2Los Muros de Ladrillo Clinker§r tienen un pequeño alféizar de ladrillo cocido en la capa superior.

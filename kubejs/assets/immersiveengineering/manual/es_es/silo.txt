@@ -1,0 +1,5 @@
+Silo
+¡Lleno hasta el borde!
+Los Silos ofrecen espacio para una gran cantidad de artículos del mismo tipo, lo que los hace excelentes para el almacenamiento masivo de semillas, escoria o adoquines. Tienen espacio para 41472 artículos, lo que equivale a la capacidad de 24 cofres.
+Los artículos deben ingresarse por la parte superior y extraerse por la parte inferior. Aplicar una señal de redstone al bloque inferior hará que salga automáticamente.
+Un comparador conectado al bloque central inferior emitirá una señal de redstone proporcional a qué tan lleno esté el silo. Conectar el comparador a una de las 6 capas superiores da como resultado una señal proporcional a la altura del comparador. Por ejemplo, un comparador conectado a la tercera capa de un silo no emitiría ninguna señal hasta que el tanque esté 2/6 lleno y tendría una fuerza de señal de 15 si el silo está medio lleno o más.

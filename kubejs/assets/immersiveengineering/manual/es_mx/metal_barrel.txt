@@ -1,0 +1,3 @@
+Barril de Metal
+No rueda
+Los barriles de metal funcionan exactamente igual que los <link;barrel;Barriles de Madera Tratada;>. Almacenan la misma cantidad de fluido y sus entradas y salidas se configuran de la misma manera, pero a diferencia de la versión de madera, estos pueden almacenar gases y fluidos calientes, y no saldrán automáticamente si están desactivados por una señal de redstone.

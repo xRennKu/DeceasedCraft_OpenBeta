@@ -1,0 +1,6 @@
+Mezcladora
+¡Cubas de Masa de Galletas!
+La Mezcladora es una estructura multibloque que disuelve sólidos en fluidos, mezclándolos. La estructura se construye como se muestra arriba y se forma usando el Martillo del Ingeniero en el bloque central de lámina.<np>
+Los usos más comunes para esta máquina son la mezcla de <link;concrete;Concreto Líquido;liquid>, o la creación de pociones a partir de agua y sus diversos ingredientes.<br>
+Los fluidos se introducen en la mezcladora a través del puerto en la parte inferior de su fuente de alimentación. Los artículos se pueden introducir a través de las dos escotillas en la parte posterior. El puerto de fluido en la parte delantera sirve como salida de fluido.<br>
+Aplicar una señal de redstone al panel de control en la parte delantera detendrá el proceso de la máquina, este comportamiento se puede invertir mediante el uso del Destornillador del Ingeniero.

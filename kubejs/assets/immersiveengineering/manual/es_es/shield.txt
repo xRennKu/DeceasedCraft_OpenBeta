@@ -1,0 +1,6 @@
+Escudo Reforzado Pesado
+Falange de un solo hombre
+<&recipe>El Escudo Reforzado Pesado es una mejora directa a los escudos de madera normales con los que podrías estar familiarizado. De manera similar, este escudo bloqueará la mayor parte del daño entrante desde el frente, pero su durabilidad se ha incrementado considerablemente y se puede mejorar.<np>
+<&flashbulb>La mejora §2Bombilla de Flash§r agrega una bombilla brillante y una pantalla reflectora al escudo. Al ser atacado, el dispositivo producirá un destello brillante y cegador, desorientando a todos los que estén frente al usuario.<np>
+<&electric>Agregar §2Emisores de Choque§r al escudo te permite tomar represalias contra los enemigos atacantes. Cuando se golpea el escudo, emitirá una descarga, infligiendo un daño menor al agresor. Además, vaporizará los proyectiles en lugar de simplemente detenerlos.<np>
+<&magnetic>El §2Guante Magnético§r sirve como una forma fácil de acceder al escudo cuando se está amenazado. Con esta mejora equipada, simplemente tocar dos veces la tecla §l<keybind;key.immersiveengineering.magnetEquip>§r hará que recuperes el escudo de tu inventario y lo coloques en tu ranura de mano secundaria.

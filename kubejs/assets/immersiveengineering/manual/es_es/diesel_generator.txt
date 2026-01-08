@@ -1,0 +1,8 @@
+Generador Diésel
+Mejor que el volumen: Más volumen.
+La arquitectura de Alto Voltaje puede ser fascinante, pero no es muy útil a menos que tengas un generador que realmente pueda crear la salida requerida para ella.
+El Generador Diésel es una de las pocas formas de generar este tipo de energía. Se crea como una estructura multibloque compleja y funcionará con <link;refinery;Biodiésel;diesel> u otros tipos de combustible combustible. Debido a su alta producción, consumirá combustible muy rápidamente, así que asegúrate de tener una producción de combustible suficiente para hacerlo funcionar.
+<&structure>La estructura se construye a partir de bloques de Ingeniería, Generador y Radiador, así como Tuberías de Fluido y Andamios. Organízalos en la forma que se muestra arriba y haz clic derecho en el generador central con un Martillo de Ingeniero.
+El combustible debe introducirse en las esquinas inferiores del generador, mientras que la energía saldrá a hasta tres conexiones en la parte superior. Los <config;i;machines.dieselGen_output>Flux/t que emite el generador se dividirán entre todos los puntos conectados. El generador solo funcionará cuando al menos una salida pueda aceptar energía.
+La pequeña terminal en el costado apagará el generador si se suministra con una señal de redstone, este comportamiento se puede invertir mediante el uso del Destornillador de Ingeniero.<br>
+La siguiente es una lista de combustibles que el generador puede aceptar y durante cuánto tiempo un cubo lleno alimentará el generador: <&list>

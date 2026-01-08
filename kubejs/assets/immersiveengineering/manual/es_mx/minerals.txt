@@ -1,0 +1,19 @@
+Depósitos Minerales
+Mineravilloso
+Los depósitos de Mineral que se encuentran alrededor de tu mundo no son nada nuevo para ti. Sin embargo, lo que hasta ahora has dejado fuera de consideración son las vetas minerales, que contienen una mezcla de diferentes minerales. Debido a su amplia y delgada extensión, el minero promedio no puede encontrarlas, pero una <link;excavator;máquina especial> podría ayudar con eso.
+<&survey_tools>Para comenzar a buscar vetas minerales, querrás elaborar algunas §2Herramientas de Prospección Minera§r. Al aventurarte y usar estas herramientas en varios bloques de suelo natural, puedes identificar vetas y encontrar sus posiciones aproximadas.
+
+Cada muestra que tomes de la misma veta te da una lectura más precisa de lo que contiene y dónde se origina. Ten en cuenta que las vetas pueden superponerse, por lo que puedes encontrar rastros de diferentes vetas bastante cerca unas de otras.
+
+También ten en cuenta que si se excava una veta desde lejos, el sitio de excavación se extraerá de manera ineficiente, desenterrando más escombros, como roca y tierra.
+
+Debido a la excavación ineficiente, la veta producirá menos mineral que una veta excavada eficientemente.
+<&sample_drill>Después de reducir el tipo y la posición de la veta, usa un §2Taladro para Muestras de Perforación§r para obtener una lectura precisa de qué vetas se encuentran en una posición exacta.
+Suministra energía a la máquina y haz clic derecho en ella o usa redstone para activarla. El taladro consume <config;i;machines.coredrill.consumption> Flux/t para luego extraer una muestra de núcleo en su ubicación que proporciona información detallada sobre la veta mineral.
+<np>
+<&core_sample>La muestra no solo te dirá exactamente qué minerales se encuentran allí, incluida su presencia relativa, sino también su §2saturación§r individual. Una mayor saturación significa una mayor probabilidad de que una excavadora devuelva un mineral.
+
+Agáchate + clic derecho en una muestra de núcleo para colocarla en el mundo, lo que te permite leer su posición e información. Además, cuando se coloca, puedes hacer clic derecho en ella con un mapa para marcar su posición original allí.
+
+Las siguientes páginas enumeran cada tipo de veta y los minerales y escombros que se pueden recuperar de ellas.
+<np>

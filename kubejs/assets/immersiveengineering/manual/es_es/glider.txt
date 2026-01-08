@@ -1,0 +1,7 @@
+Planeador Plegable
+Navegando por los cielos
+<&recipe>§oLos aldeanos cuentan historias sobre ciudades en el cielo, custodiadas por dragones, donde valientes aventureros pueden adquirir alas mágicas que les permiten planear por el aire.§r
+<br>Tonterías, seguramente, pero el concepto intriga la mente del ingeniero. El §2Planeador Plegable§r es un dispositivo que ofrece tales libertades, permitiéndote navegar por los cielos.
+<br>Realiza las mismas tareas que los "Élitros" de los que hablaban los aldeanos, pero viene con algunas desventajas: tiene menor durabilidad y carece de cualquier potencial mágico para encantamientos.
+Su construcción ligera de cáñamo y aluminio también hace que tenga dificultades con altas velocidades, recibiendo mayor daño cuando se usa en picados o acelerado por fuegos artificiales.
+Sin embargo, sus materiales se adquieren fácilmente y se puede reparar fácilmente con un poco de tela de cáñamo... siempre que no se rompa por completo durante un picado a alta velocidad.

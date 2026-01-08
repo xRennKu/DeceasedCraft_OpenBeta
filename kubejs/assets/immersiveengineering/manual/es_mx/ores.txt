@@ -1,0 +1,12 @@
+Minerales
+Diggy diggy hole
+<&alu>El §lMineral de Bauxita§r se encuentra en el mundo entre las capas <config;i;ores.bauxite.min_y> y <config;i;ores.bauxite.max_y>, y requiere un Pico de Piedra para recolectar.
+El mineral crudo se fundirá en lingotes de aluminio, que es una parte integral de la arquitectura de alto voltaje.
+<&lead>El §lMineral de Plomo§r se encuentra en el mundo entre las capas <config;i;ores.lead.min_y> y <config;i;ores.lead.max_y>, y requiere un Pico de Hierro para recolectar.
+El mineral crudo se fundirá en lingotes de plomo, que se utilizan en la creación de acumuladores tempranos.
+<&silver>El §lMineral de Plata§r se encuentra en el mundo entre las capas <config;i;ores.silver.min_y> y <config;i;ores.silver.max_y>, y requiere un Pico de Hierro para recolectar.
+El mineral crudo se fundirá en lingotes de plata, que se alean con oro para crear electro, un conductor mucho más efectivo.
+<&nickel>El §lMineral de Níquel§r se encuentra en el mundo entre las capas <config;i;ores.nickel.min_y> y <config;i;ores.nickel.max_y>, pero más abundantemente por debajo de <config;i;ores.deep_nickel.max_y>. Requiere un Pico de Hierro para recolectar.
+El mineral crudo se fundirá en lingotes de níquel, que se alean con cobre para crear constantán, un conductor resistente al calor utilizado en la construcción de <link;thermoelectric;Generadores Termoeléctricos;start>.
+<&uranium>El §lMineral de Uranio§r se encuentra en el mundo entre las capas <config;i;ores.uranium.min_y> y <config;i;ores.uranium.max_y>, y requiere un Pico de Hierro para recolectar.
+El mineral crudo se fundirá en lingotes de uranio, pero actualmente no hay muchos usos para el metal. Un bloque de uranio puede servir como fuente de calor para el <link;thermoelectric;Generador Termoeléctrico;start> y el metal se utilizará en futuros emprendimientos.

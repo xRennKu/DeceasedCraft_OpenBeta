@@ -1,0 +1,4 @@
+Mesa de Trabajo de Ingeniero
+Para varios proyectos
+La Mesa de Trabajo de Ingeniero es una simple mejora a la Mesa de Trabajo normal. Además de la superficie de madera tratada y pulida, mantiene el ingrediente dentro de la cuadrícula de elaboración cuando se cierra la interfaz.
+También cuenta con un pequeño cajón para almacenar algunos de tus componentes de elaboración.

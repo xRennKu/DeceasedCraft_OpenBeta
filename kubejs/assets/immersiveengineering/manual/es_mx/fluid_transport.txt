@@ -1,0 +1,13 @@
+Transporte de Fluidos
+Fontanero Profesional
+<&pipe_recipe>El transporte de fluidos se ha vuelto bastante esencial en el negocio de la ingeniería. Las Tuberías de Fluido y las Bombas de Fluido hacen exactamente eso. Por sí solas, las Tuberías de Fluido son bastante lentas para transferir fluidos, pero si se usa una bomba para insertar el fluido, se moverá mucho más rápido.<np>
+Puedes hacer clic derecho en la pieza de conexión de una tubería con un Martillo del Ingeniero para evitar que se conecte a ese lado.
+Las Tuberías de Fluido se pueden cubrir con andamios de madera o acero. Simplemente haz clic derecho con una pieza de andamio en una tubería para cubrirla. Rompe la tubería para recuperar el andamio.
+Además, hacer clic derecho en una tubería con cualquier tinte la coloreará, para identificar fácilmente hacia dónde se dirige. Las tuberías de colores no se conectarán automáticamente a las recién colocadas.<np>
+<&pump_recipe>Las Bombas de Fluido tienen tres funciones esenciales. Se pueden usar para insertar en tuberías a alta presión, para transferir fluidos mucho más rápido, o pueden recoger fluidos del mundo.
+Usar tu martillo en la base de la bomba cambiará los lados entre entrada y salida.<np>
+Para que la bomba recoja bloques de fluido, necesitará una entrada de energía en la parte superior y una señal de redstone. Las bombas también se pueden usar para extraer de tanques y otros contenedores de fluidos que no tienen una salida automática. Esto también requerirá una señal de redstone, pero no consumirá energía.<np>
+Los bloques de agua servirán como una fuente de fluido infinita para la bomba, siempre que haya más de 3 bloques conectados.
+
+Los bloques de fluido que se recogieron se reemplazarán con adoquines para reducir el retraso de los fluidos que fluyen. Este comportamiento se puede activar y desactivar usando un Martillo del Ingeniero en la bomba.<np>
+<&outlet_recipe>La Salida de Fluido actúa como un punto final para un sistema de tuberías, permitiendo que el Fluido se coloque en el mundo. Los lados se pueden configurar entre entrada, salida (puerta abierta) o cerrada, se puede usar una señal de redstone para apagar la salida. El bloque solo emitirá fluido hasta su propio nivel de altura.

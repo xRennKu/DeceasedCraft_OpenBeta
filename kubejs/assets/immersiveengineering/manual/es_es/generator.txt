@@ -1,0 +1,7 @@
+Generación de Energía
+
+<&dynamo_recipe>Transferir energía es bastante útil siempre que tengas energía. Para generar Flux realmente, puedes usar las fuerzas cinéticas de los molinos de viento y las ruedas hidráulicas. Conectarlos a una dinamo generará energía en función de qué tan rápido giren.<np>
+<&waterwheel_recipes>La Rueda Hidráulica es una forma bastante fácil de alimentar una dinamo. Su velocidad de giro se basa en el agua que fluye a su alrededor, por lo que para obtener resultados óptimos, querrás dirigir el agua en un semicírculo desde la parte superior hacia un lado y a lo largo de la parte inferior. Se pueden colocar hasta tres ruedas hidráulicas una contra la otra.<np>
+<&windmill_recipes>El Molino de Viento es una forma gratuita y fácil de generar energía, aunque no muy potente. Su velocidad depende del espacio frente a él, y su salida cinética se reduce enormemente si el flujo de aire está oscurecido. Además, las condiciones climáticas como la lluvia o las tormentas eléctricas resultan en vientos más fuertes y mayores velocidades de rotación.<np>
+<&sail_recipe>Tu generación de energía basada en el viento se puede mejorar cubriendo las aspas de tu molino de viento con tela. Hacerlo aumenta el área de superficie y con ello la velocidad de rotación y la salida de energía.
+Las velas requeridas se elaboran con <link;hemp;tela de cáñamo resistente;start> y se aplican al molino de viento haciendo clic derecho en el mundo.

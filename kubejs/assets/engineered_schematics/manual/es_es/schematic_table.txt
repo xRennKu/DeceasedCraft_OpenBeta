@@ -1,0 +1,7 @@
+Mesa de Esquemas
+El Códice del Arquitecto
+
+Para comenzar, necesitarás fabricar una Mesa de Esquemas.
+<&schematic_table>
+Esta mesa te permite convertir papel en un <link;engineered_schematics:schematic_item;esquema> para cualquier estructura multibloque que se haya registrado en Immersive Engineering.
+<br>

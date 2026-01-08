@@ -1,0 +1,5 @@
+Estación de Recarga
+¡Carga tus gafas!
+<&recipe>La Estación de Recarga es un dispositivo que te permite cargar herramientas y otros artículos.
+La energía se puede introducir a través de la parte inferior o posterior y los artículos se pueden colocar manualmente o insertar automáticamente.<np>
+Los tubos de electrones en la parte delantera dan retroalimentación sobre la carga actual del artículo, pero el bloque también emitirá una señal de comparador para los mismos fines.

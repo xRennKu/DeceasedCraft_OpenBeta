@@ -1,0 +1,4 @@
+Caja de Herramientas del Ingeniero
+El Bolso de Mano del Ingeniero
+¡La caja de herramientas es un contenedor simple y transportado, utilizado para almacenar todos los elementos esenciales de un ingeniero! Al pasar el cursor sobre las ranuras relevantes, te dirá qué aceptarán.
+'Comida' y 'Otros objetos' se explican por sí mismos, las ranuras de 'Cableado' son para bobinas, conectores y artículos similares, y 'Herramientas' almacenará cualquier herramienta de IE, así como picos, palas y hachas. Agacharse y hacer clic derecho permite colocar la caja de herramientas como un bloque. Mientras está colocada, aún se puede acceder a su inventario con un clic derecho. Agacharse y hacer clic derecho nuevamente recogerá la caja de herramientas.

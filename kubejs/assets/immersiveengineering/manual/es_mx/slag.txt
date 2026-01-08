@@ -1,0 +1,12 @@
+Reciclaje de Escoria
+¡Cero Residuos!
+Si bien la escoria se considera un producto de desecho del <link;crude_blast_furnace;Alto Horno>, sus propiedades permiten que se reutilice de varias maneras. Los usos especiales se detallan en las siguientes páginas.
+
+La escoria se puede convertir en varios bloques de construcción, incluidos dos tercios de una <link;concrete;mezcla de concreto>, y vidrio. Además, debido a su composición mineral, la escoria se puede utilizar para crear <link;chemicals;fertilizante industrial;fertilizer>
+<&slag_gravel>La §2Grava de Escoria§r es escoria que ha sido procesada en la <link;crusher;Trituradora> hasta obtener una arena gruesa. Comparte su comportamiento con cualquier otra grava, y se puede triturar aún más en arena.
+
+Además, la grava de escoria contiene nutrientes valiosos para la flora acuática. Cualquier planta acuática plantada en ella (como las algas) tiende a crecer más rápido que cuando se cultiva en otros bloques.
+<&slag_glass>Al fundir escoria en un horno normal en lugar de triturarla, se convierte en §2vidrio de escoria§r, un material duro y semitransparente. Reduce la fuerza de la luz que pasa a través de él y se puede utilizar como aislante en <link;wiring;relés de alto voltaje;connector_recipes>.
+<&slag_bricks>Los §2Ladrillos de Escoria§r son escoria moldeada a través de la elaboración o corte de piedra en ladrillos vidriosos. Debido a su construcción vitrificada, los ladrillos de escoria tienen una mayor densidad y dureza que los ladrillos de arcilla normales, resistiendo explosiones más fácilmente.
+
+Los Ladrillos de Escoria se pueden formar en escaleras, losas y muros, que tienen un pequeño alféizar de ladrillo cocido en la capa superior.

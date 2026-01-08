@@ -1,0 +1,7 @@
+Orejeras
+¡RUIDOS FUERTES!
+<&recipe>Las Orejeras son dispositivos para proteger tu audición. Son bastante importantes para los ingenieros que trabajan cerca de <link;diesel_generator;Generadores Diésel;> u otra maquinaria ruidosa.
+¡Mientras usas Orejeras, todos los ruidos se reducen en un 90% y hacen que tus oídos estén considerablemente más cálidos y peludos! :D
+<&color_and_armor>Colocar las Orejeras en el <link;workbench;Banco de Trabajo de Ingeniero;> te permite especificar qué tipos de ruidos deseas cancelar y en cuánto se debe reducir su volumen.
+Puedes teñirlos como lo harías con la armadura de cuero.
+Elaborarlos con cualquier otro casco unirá los protectores a esa pieza de equipo, elaborar el casco solo eliminará los protectores nuevamente, para permitir una mayor personalización.

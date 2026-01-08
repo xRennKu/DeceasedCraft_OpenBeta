@@ -1,0 +1,10 @@
+Introducción
+Proyectando el futuro
+Saludos y bienvenido a Engineered Schematics.
+
+Engineered Schematics está diseñado para ser el compañero de construcción definitivo para los jugadores que usan Immersive Engineering y sus muchos complementos.
+
+Este mod proporciona una guía detallada para construir <link;large_constructions;máquinas multibloque> complejas, asegurando que las construyas de manera rápida, precisa y eficiente.
+<np>
+Ya seas un ingeniero experimentado o recién estés comenzando, Engineered Schematics te ayudará a navegar por estas construcciones avanzadas con facilidad.
+<link;engineered_schematics:schematic_table;Comencemos>

@@ -1,0 +1,12 @@
+Sierra Circular
+No vamos a Ravenholm
+<&recipes>Esta gran sierra circular portátil está diseñada para trabajar rápidamente con árboles y otras piezas de follaje que puedan interponerse en el camino de un edificio de fábrica prístino.
+Después de usar el <link;workbench;Banco de Trabajo del Ingeniero;start> para colocar una hoja de sierra en él, y cargarlo con <link;refinery;Biodiésel;diesel> u otro combustible, se puede usar para tallar todo, desde pequeños abedules hasta grandes árboles de la jungla.
+
+Al igual que otras herramientas, la sierra circular se puede modificar en el <link;workbench;Banco de Trabajo del Ingeniero>. Estas mejoras afectan el tamaño del tanque interno y la durabilidad de su hoja de sierra.
+<np>
+<&rockcutter_recipe>Al reemplazar la hoja de sierra normal con un §2Disco de Corte§r, la sierra circular se puede usar para cortar limpiamente cubos de piedra del suelo, al igual que el encantamiento §2Toque de Seda§r. Sin embargo, la hoja con punta de diamante ya no es útil para tallar madera o talar árboles.<np>
+<&grinding_recipe>El §2Grinding Disk§r está hecho de arena fina de aluminio suspendida en <link;plastic;Resina Fenólica>. Si bien no son tan duraderos, estos discos son excelentes para cortar rápidamente bloques de metal, pero se rompen fácilmente en otros materiales. Además, se pueden usar para raspar la oxidación o la cera de los bloques de cobre o quitar la corteza de los troncos, al igual que un §2hacha§r.<np>
+<&tank_recipe>El §2Tanque Grande§r aumenta la capacidad de fluido de la sierra circular en 2000 mb.<np>
+<&lube_recipe>El §2Sistema Avanzado de Lubricación§r aplica lubricante adicional a la hoja de sierra, reduciendo la velocidad a la que pierde durabilidad.<np>
+<&quiver_recipe>Al colocar el §2Carcaj para Hojas de Corte§r al costado de la sierra circular, puedes llevar dos hojas de sierra adicionales. Puedes alternar entre las hojas almacenadas <config;b;tools.chemthrower.scroll;agachándote y usando la rueda de desplazamiento, o mediante el uso de;usando> la combinación de teclas §l<keybind;key.immersiveengineering.chemthrowerSwitch>§r si se ha configurado en las opciones.

@@ -1,0 +1,5 @@
+Horno de Fusión
+Mezclando Metales
+<&recipe>El Horno de Fusión es un horno simple hecho de arenisca y ladrillos resistentes al calor. Dentro de él, las temperaturas son lo suficientemente altas como para permitir que los metales se fundan en un estado fluido y se mezclen, creando una <link;alloys;aleación>.
+Esto permite la creación de aleaciones importantes como Electro y Constantán sin requerir la tediosa mezcla de polvos. <&multiblock>Para formar el Horno, coloca 8 de los Ladrillos Refractarios para Horno de Fusión en un cubo de 2x2x2, como se muestra arriba, y haz clic derecho en uno de los bloques de los lados con un Martillo del Ingeniero.
+<&insulating_glass>El horno de fusión también es esencial en la creación de §2vidrio aislante§r, un componente utilizado en la construcción de <link;wiring;arquitectura de alto voltaje;connector_recipes>.

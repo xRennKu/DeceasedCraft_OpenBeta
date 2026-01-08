@@ -1,0 +1,6 @@
+Exprimidor
+Asuntos urgentes
+El Exprimidor es una estructura multibloque que exprime jugo o aceite de materiales orgánicos mediante el uso de un gran pistón. La estructura se construye como se muestra arriba y se forma usando el Martillo de Ingeniero en el barril de madera central, desde el lado que tiene los Bloques de Ingeniería.
+Los artículos se pueden introducir en el Exprimidor a través de las dos escotillas en la parte posterior que están marcadas con puntos azules. La escotilla con el punto naranja sirve como salida de artículos y el bloque debajo de ella para sacar fluidos.
+Aplicar una señal de redstone al panel de control en la parte delantera detendrá el proceso de la máquina, este comportamiento se puede invertir mediante el uso del Destornillador de Ingeniero.
+<np>La siguiente lista muestra varios artículos que se pueden exprimir en aceite vegetal y la cantidad que producen.<&list>

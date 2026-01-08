@@ -1,0 +1,7 @@
+Jardín Cloche
+Selva Tropical Localizada
+<&recipe>El Jardín Cloche, o Tarro de Campana, es un dispositivo diseñado para acelerar el crecimiento de las plantas. Permite que incluso el ingeniero con problemas agrícolas cultive plantas y coseche su rendimiento.<np>
+El dispositivo acepta energía, fluido y artículos a través de sus respectivos puertos.
+Siempre se requiere agua y energía, y puedes agregar fertilizante a la ranura de la izquierda para aumentar la velocidad de crecimiento.
+El suelo y las semillas se colocan en el medio; cada semilla requiere el suelo correcto para crecer, y la tierra se labra automáticamente en tierra de cultivo.<np>
+Los artículos producidos se almacenan en las ranuras de la derecha y se emitirán automáticamente a través de la escotilla en la parte delantera de la cúpula de vidrio.

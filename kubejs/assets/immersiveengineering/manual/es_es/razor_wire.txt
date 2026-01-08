@@ -1,0 +1,4 @@
+Concertina
+Cortador de huevos de gran tamaño
+<&recipe>La concertina es un alambre con piezas de metal afiladas unidas. Ralentizará y cortará a cualquier entidad que intente moverse a través de él.
+La concertina solo se puede quitar con Alicates del ingeniero, cualquier otro intento dañará al jugador. Además, se puede conectar un cable LV para electrificar la concertina para obtener daño adicional.

@@ -1,0 +1,14 @@
+Revólver
+Se busca: Vivo o Muerto
+<&recipe>El Revólver, un arma más elegante de una época más civilizada, es un logro de la mecánica pequeña. Pequeño siendo relativo aquí, ya que esta arma está calibrada para calibre 12.
+Similar al Taladro Minero, el Revólver permitirá modificaciones en el <link;workbench;Banco de Trabajo de Ingeniero>, como se detalla en las últimas páginas.
+
+¡Ten en cuenta que disparar el revólver es bastante ruidoso y atraerá la atención de mobs hostiles en el área!
+
+Hay diferentes <link;bullets;tipos de munición;> que aceptará el Revólver. Para cargarlo, agáchate + clic derecho en el arma, luego coloca los cartuchos en las ranuras.<np>
+<&speedloader>Un Cargador Rápido cargado en tu inventario se usará para rellenar el revólver después de haber disparado tu último tiro.
+<np>
+<&scope>La §2Mira de Precisión§r te permite hacer zoom con el revólver. Usa §l<keybind;key.immersiveengineering.railgunZoom>§r para usar la mira y desplaza la rueda del ratón para cambiar entre niveles de aumento.
+<&bayonet>Al colocar una §2bayoneta§r en el revólver, lo equipas con capacidades de combate cuerpo a cuerpo, lo que permite un daño cuerpo a cuerpo tan poderoso como una Espada de Hierro.<np>
+<&extmag>El §2Cargador Extendido§r permite cargar 6 cartuchos más en el revólver. Este cargador no se rellena con un cargador rápido.<np>
+<&tubes>Los §2Tubos de Electrones Amplificadores§r aplican una descarga eléctrica a los proyectiles disparados. Esta descarga persiste hasta que golpea al objetivo (no preguntes cómo funciona) y se transmite. El objetivo quedará aturdido por una fracción de segundo y todo el equipo alimentado que puedan estar usando sufrirá una ligera descarga.

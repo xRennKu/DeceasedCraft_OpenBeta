@@ -1,0 +1,8 @@
+Refinería
+¡Mezcla de fluidos!
+<&multiblock>La Refinería es un multibloque complejo que puede refinar uno o dos fluidos en otro. La aplicación más común de esto es la producción de Biodiésel.
+Para formar la estructura, haz clic derecho en el Bloque de Ingeniería Pesada en la capa media.
+Los fluidos se introducen a través de los dos puertos a cada lado del bloque y salen a través del puerto marcado en naranja en la parte delantera. También es posible usar cubos para interactuar con los tanques de la refinería.
+Aplicar una señal de redstone al panel de control en la parte delantera detendrá el proceso de la máquina, este comportamiento se puede invertir mediante el uso del Destornillador de Ingeniero.
+<&diesel>La mayoría de los procesos de refinería requieren la adición de un catalizador para permitir la reacción. Este catalizador no se consume, pero el proceso no funcionará sin él.
+<br>Para producir §lBiodiésel§r, combina partes iguales de <link;squeezer;Aceite Vegetal;start> y <link;fermenter;Etanol;start> mientras usas <link;chemicals;Polvo de Nitrato> como catalizador.

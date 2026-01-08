@@ -1,0 +1,7 @@
+Iluminación de Ingeniería
+Iluminando el Yermo
+<&lantern>En lo profundo de los pasillos de las fábricas, puede ser bastante oscuro. Para poder orientarte alrededor de las máquinas, probablemente deberías iluminar el lugar con algunas Linternas. Estas Linternas proporcionan casi tanta luz como un bloque de piedra luminosa.
+<&electric_lantern>Las Linternas Alimentadas son uno de los primeros usos inventados para la energía eléctrica. Para hacerlas funcionar, debes conectarlas directamente a tu red eléctrica usando cables. Permitirán que la energía se transfiera a través de ellas, por lo que puedes vincularlas en una fila.
+Usar el Martillo de Ingeniero en ellas las volteará boca abajo. Mientras se les suministre un poco de energía, iluminarán el área circundante como una Linterna normal, pero además, ¡también evitarán que aparezcan mobs hostiles en un radio de 32 bloques!<np>
+<&floodlight>Los Reflectores son fuentes de luz fuertes. Si bien requieren más energía que una simple Linterna Alimentada, crearán un cono de luz de hasta 32 bloques de largo. Usa un Martillo de Ingeniero en las caras superior o inferior del bloque para rotar la luz o haz clic en sus lados para cambiar su inclinación.
+Generalmente, los Reflectores requieren una señal de redstone para funcionar, sin embargo, su comportamiento de control se puede invertir haciendo clic derecho en su base con un Destornillador de Ingeniero.

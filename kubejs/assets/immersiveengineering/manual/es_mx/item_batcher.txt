@@ -1,0 +1,7 @@
+Filtro de Objetos
+Júntense, ahora mismo
+<&recipe>El Filtro de Objetos está diseñado para recolectar un conjunto de artículos de una cinta transportadora de entrada antes de enviarlos hacia adelante, con el fin de transferir tamaños de lote optimizados a la maquinaria.<np>
+Coloca el bloque y abre su interfaz para establecer una variedad de filtros. Cualquier artículo entrante será aceptado en las ranuras directamente debajo de los filtros, y el lote recolectado solo se emitirá cuando se cumplan todos los filtros.
+Este comportamiento se puede ajustar con el botón etiquetado "Modo de Salida". El comportamiento predeterminado mencionado anteriormente se conoce como §2modo por lotes§r. En el §2modo único§r, cualquier artículo que satisfaga su cantidad filtrada se emitirá en su lugar.<np>
+Usando los 9 botones debajo del búfer, puedes alternar a través de los colores de los <link;redstone_wire;cables de redstone>. Al conectar un <link;redstone_wire;Conector de Interfaz de Redstone;bundled>, el Filtro de Objetos enviará señales a lo largo de los cables de redstone cuando se cumpla un filtro.
+Esto te permite desactivar cualquier cinta transportadora de extracción o maquinaria de producción cuando se alcance la cantidad requerida de artículos. Ten en cuenta que si varios filtros usan el mismo color, todos deben cumplirse para que se envíe una señal.

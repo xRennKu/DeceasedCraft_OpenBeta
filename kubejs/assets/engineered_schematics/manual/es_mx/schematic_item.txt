@@ -1,0 +1,20 @@
+Esquema Multibloque
+Bloque a bloque
+
+<&schematic>
+Esta guía explica cómo usar el Esquema Multibloque.
+Sigue los pasos a continuación para colocar, mover y construir fácilmente tus estructuras multibloque con retroalimentación visual.
+<np>
+
+<&placement>
+§lColocar y Mover:§r Haz clic derecho con el esquema en tu mano PRINCIPAL para establecer o reposicionar la huella del multibloque.
+§lRotar Multibloque:§r Haz clic derecho + Mayús con el esquema en tu mano PRINCIPAL para rotar la estructura de modo que quede frente a ti.
+§lLíneas de Eje:§r Presiona F3 para mostrar las líneas de EJE relativas.
+<&guide>
+§lGuía de Construcción:§r Sostén el esquema en tu mano SECUNDARIA para habilitar la guía de construcción.<br>
+Al sostener el bloque correcto, las posiciones correspondientes se resaltan en §lverde§r.<br>
+La colocación incorrecta de bloques deshabilita la guía y resalta en §lrojo§r.<br>
+La orientación o el estado incorrectos se resaltan en §lamarillo§r.
+<np>
+<&finalize>
+§lBloque de Formación:§r Una vez que la estructura esté completa, el esquema muestra el bloque de formación para golpear con un martillo.
